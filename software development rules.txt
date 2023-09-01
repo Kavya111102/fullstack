@@ -1,0 +1,60 @@
+GITHUB - repository
+storing projects 
+
+SDLC:softw develp life cycle
+product development
+
+STEPS:
+1.requirement analysis
+2.planning
+3.design
+4.implementation
+5.test
+6.deploy
+7.maintainence
+
+FRONTEND: html| css| js| react.js| angular.js |vue
+SQL: mysql,postgres sql,nosql
+
+APPLICATION TYPES:
+1.web application
+2.mobile app
+3.standalone (notepad,paint)
+
+SOFTWARE REQUIREMENTS:
+1.functional
+2.non functional
+
+Environment in workspace:
+1.SIT  - testing in development environment
+2.UAT  - testing in user environment
+3.PROD - production
+
+SDLC MODELS:
+1.waterfall model		sequential model
+2.V-shaped model		validation -> verification ->validation ->verification
+3.prototype model		sample model of final product
+4.spiral model			risk analysis
+5.iterative increamental model  -iterartion
+6.big bang model		-not folowing the requirements
+7.agile model			-adapt to changes
+8.Scrum				-implementation of agile
+
+SCRUM:
+1.modules:sprint
+2.agile framework 
+3.scrum team-developers,testers
+4.product owner-who will represent client
+5.scrum master
+6.development team-cross functional,self organising
+
+trunk - production code(base code)
+branch - copy of code
+
+SRS:
+1.project name descrption
+2.purpose
+3.requirements
+4.
+
+
